@@ -1,0 +1,12 @@
+@import '../../styles/pallete.scss';
+
+.product-content {
+  min-height: 650px;
+  float: none;
+  display: inline-block;
+  border: 1px solid white;
+  border-radius: 10px;
+  div img {
+    max-width: 100%;
+  }
+}
